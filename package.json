@@ -1,0 +1,15 @@
+{
+  "name": "com.avr.testutils",
+  "displayName": "AVR Test Utils",
+  "version": "1.0.0",
+  "unity": "2019.3",
+  "keywords": [
+    "AVR",
+    "Utils",
+	"Test",
+	"Test Utils"
+  ],
+  "description": "Useful unity utility scripts for testing using testrunner",
+  "type": "library",
+  "hideInEditor": false
+}
